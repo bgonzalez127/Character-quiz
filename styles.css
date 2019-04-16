@@ -1,0 +1,47 @@
+body{
+    background-image: url("http://www.hooverlibrary.org/sites/default/files/powfabric.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+body, html {
+    height: 100%;
+}
+
+#button{
+    margin:5%;
+    display:flex;
+    justify-content:center;
+}
+
+button{
+    background-color:pink;
+}
+
+#heading{
+    display:flex;
+    justify-content:center;
+}
+h1{
+    color:white;
+}
+h3{
+    color:white;
+}
+ul{
+    color:white;
+}
+
+.pic{
+    display:none;
+    width:70px;
+    height:100px;
+}
+#answer{
+    color:white;
+    display:flex;
+    text-align:center;
+}
